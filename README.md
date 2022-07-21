@@ -7,7 +7,7 @@
 
 Example for [Vue 2](https://vuejs.org/) + [VueUse](https://github.com/antfu/vueuse) with [Vue CLI](https://cli.vuejs.org/)
 
-🌐 [Live Demo](https://vueuse-vue2-example.netlify.app/)
+🌐 [Live Demo](https://vue2-history-example.vercel.app/)
 
 📦 [Vue3 Webpack Example](https://github.com/antfu/vueuse-next-example)
 📦 [Vite Example](https://github.com/antfu/vite-vueuse-starter)
